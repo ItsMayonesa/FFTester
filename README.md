@@ -1,2 +1,2 @@
 # FFTester
-A little program to experiment with ffmpeg
+A little program made to experiment with ffmpeg
