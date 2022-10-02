@@ -1,0 +1,9 @@
+{
+    "name": "FFTester v.1.0.1",
+    "version": "v.1.0.1",
+    "changelog": [
+            "- Test",
+            "- moar.",
+    ]
+    "download": "https://github.com/CJMinecraft01/ForgeModBuilder/releases/download/0.1.1.4/ForgeModBuilder-0.1.1.4.exe"
+} 
